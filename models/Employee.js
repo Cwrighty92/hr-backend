@@ -6,16 +6,9 @@ const EmployeeSchema = new Schema({
     type: String,
     required: true
   },
-  contactDetails: {
-    type: Object,
-    required: true
-  },
   personalDetails: {
     type: Object,
     required: true
-  },
-  picture_url: {
-    type: string
   },
   belongs_to_team: {
     type: mongoose.Schema.Types.ObjectId,

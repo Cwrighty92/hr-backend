@@ -1,0 +1,35 @@
+[
+  {
+    "username": "jsmith",
+    "personalDetails": {
+      "name": "John Smith",
+      "email": "jsmith@gmail.com",
+      "contactNumber": { "home": "01611111234", "mobile": "07777777777" },
+      "address": {
+        "firstline": "1 test way",
+        "secondline": "gatley, cheadle",
+        "county": "cheshire",
+        "postcode": "abc 1234"
+      }
+    },
+    "belongs_to_team": "Development"
+  },
+  {
+    "username": "bgates",
+    "personalDetails": {
+      "name": "Bill Gates",
+      "email": "bgates@gmail.com",
+      "contactNumber": {
+        "home": "01611111234",
+        "mobile": "07777777777"
+      },
+      "address": {
+        "firstline": "6 test way",
+        "secondline": "sale",
+        "county": "greater manchester",
+        "postcode": "abc 1234"
+      }
+    },
+    "belongs_to_team": "Infastructure"
+  }
+]

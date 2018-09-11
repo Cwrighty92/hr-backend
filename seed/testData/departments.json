@@ -1,0 +1,14 @@
+[
+  {
+    "department": "sales",
+    "belongs_to": "Amazon"
+  },
+  {
+    "department": "HR",
+    "belongs_to": "Amazon"
+  },
+  {
+    "department": "IT",
+    "belongs_to": "Amazon"
+  }
+]

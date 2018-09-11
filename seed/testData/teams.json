@@ -1,0 +1,14 @@
+[
+  {
+    "team": "Development",
+    "belongs_to": "IT"
+  },
+  {
+    "team": "Infastructure",
+    "belongs_to": "IT"
+  },
+  {
+    "team": "Support",
+    "belongs_to": "IT"
+  }
+]
